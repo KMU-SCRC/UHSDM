@@ -1,0 +1,8 @@
+﻿  UHSDM.c
+C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(77,29): warning C4133: '함수': 'char *'과(와) 'LPWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(319,55): warning C4133: '함수': 'char [20]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(326,38): warning C4133: '함수': 'int *'과(와) 'LPDCB' 사이의 형식이 호환되지 않습니다.
+C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(326,56): warning C4020: 'SetCommState': 실제 매개 변수가 너무 많습니다.
+C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(344,45): warning C4267: '함수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(363,38): warning C4133: '함수': 'char [20]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+  UHSDM.vcxproj -> C:\Users\SCRC-MobileW\source\repos\UHSDM\x64\Debug\UHSDM.exe
