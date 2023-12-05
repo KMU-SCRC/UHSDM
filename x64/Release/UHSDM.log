@@ -1,0 +1,112 @@
+﻿  UHSDM.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(635,1): warning C4005: 'SERIAL_LSRMST_ESCAPE': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10519,1):
+  'SERIAL_LSRMST_ESCAPE'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(642,1): warning C4005: 'SERIAL_LSRMST_LSR_DATA': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10526,1):
+  'SERIAL_LSRMST_LSR_DATA'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(648,1): warning C4005: 'SERIAL_LSRMST_LSR_NODATA': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10532,1):
+  'SERIAL_LSRMST_LSR_NODATA'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(654,1): warning C4005: 'SERIAL_LSRMST_MST': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10538,1):
+  'SERIAL_LSRMST_MST'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(660,1): warning C4005: 'SERIAL_IOC_FCR_FIFO_ENABLE': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10544,1):
+  'SERIAL_IOC_FCR_FIFO_ENABLE'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(661,1): warning C4005: 'SERIAL_IOC_FCR_RCVR_RESET': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10545,1):
+  'SERIAL_IOC_FCR_RCVR_RESET'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(662,1): warning C4005: 'SERIAL_IOC_FCR_XMIT_RESET': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10546,1):
+  'SERIAL_IOC_FCR_XMIT_RESET'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(663,1): warning C4005: 'SERIAL_IOC_FCR_DMA_MODE': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10547,1):
+  'SERIAL_IOC_FCR_DMA_MODE'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(664,1): warning C4005: 'SERIAL_IOC_FCR_RES1': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10548,1):
+  'SERIAL_IOC_FCR_RES1'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(665,1): warning C4005: 'SERIAL_IOC_FCR_RES2': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10549,1):
+  'SERIAL_IOC_FCR_RES2'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(666,1): warning C4005: 'SERIAL_IOC_FCR_RCVR_TRIGGER_LSB': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10550,1):
+  'SERIAL_IOC_FCR_RCVR_TRIGGER_LSB'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(667,1): warning C4005: 'SERIAL_IOC_FCR_RCVR_TRIGGER_MSB': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10551,1):
+  'SERIAL_IOC_FCR_RCVR_TRIGGER_MSB'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(673,1): warning C4005: 'SERIAL_IOC_MCR_DTR': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10557,1):
+  'SERIAL_IOC_MCR_DTR'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(674,1): warning C4005: 'SERIAL_IOC_MCR_RTS': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10558,1):
+  'SERIAL_IOC_MCR_RTS'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(675,1): warning C4005: 'SERIAL_IOC_MCR_OUT1': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10559,1):
+  'SERIAL_IOC_MCR_OUT1'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(676,1): warning C4005: 'SERIAL_IOC_MCR_OUT2': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10560,1):
+  'SERIAL_IOC_MCR_OUT2'의 이전 정의를 참조하십시오.
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntddser.h(677,1): warning C4005: 'SERIAL_IOC_MCR_LOOP': 매크로 재정의
+  (소스 파일 'UHSDM.c'을(를) 컴파일하는 중)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10561,1):
+  'SERIAL_IOC_MCR_LOOP'의 이전 정의를 참조하십시오.
+  
+C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'TCHAR *'입니다.
+  C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28):
+  서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28):
+  서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28):
+  서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28):
+  서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'TCHAR *'입니다.
+  C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28):
+  서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28):
+  서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28):
+  서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  C:\Users\SCRC-MobileW\source\repos\UHSDM\UHSDM.c(599,28):
+  서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+  
+  코드를 생성하고 있습니다.
+  11 of 35 functions (31.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  UHSDM.vcxproj -> C:\Users\SCRC-MobileW\source\repos\UHSDM\x64\Release\UHSDM.exe
